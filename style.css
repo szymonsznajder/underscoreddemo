@@ -1,0 +1,9 @@
+.site-header {
+  background-color: white;
+  text-align: center;
+}
+.site-header .site-title, .site-header .site-description {
+  display: none;
+}
+
+/*# sourceMappingURL=style.css.map */
