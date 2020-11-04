@@ -1,7 +1,9 @@
 .site-header {
     background-color: white;
     text-align: center;
-    .site-title {
+    .site
+    &-title,
+    &-description {
         display: none;
     }
 }
